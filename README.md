@@ -1,167 +1,235 @@
 # 👋 Hi, I'm Ridhi Raheja!
 
-### 💻 Computer Science Engineering Student | AI & ML Enthusiast | Data Science Learner
+### 💻 Computer Science Engineering Student | AI/ML | Data Science | Full-Stack Development
 
-I'm a **B.Tech Computer Science & Engineering student** passionate about building practical solutions using **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
+Welcome to my GitHub! 👋
 
-I enjoy solving problems, learning new technologies, and turning ideas into projects that can solve real-world problems.
+I'm a **Computer Science & Engineering student at Lovely Professional University** with a strong interest in **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
+
+I enjoy turning ideas into practical projects, working with data, building AI-powered applications, and continuously improving my problem-solving and programming skills.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE Student
+* 🎓 B.Tech Computer Science & Engineering student at **Lovely Professional University**
 * 🤖 Interested in **Artificial Intelligence & Machine Learning**
 * 📊 Exploring **Data Science, Data Analytics & Visualization**
 * 💻 Practicing **Data Structures & Algorithms**
-* 🌱 Currently improving my skills in **Machine Learning, Deep Learning & Full-Stack Development**
-* 🔍 Interested in building practical and impactful projects
-* 🌏 Aspiring to pursue higher studies and explore opportunities in technology
+* 🌐 Interested in **Full-Stack Development**
+* 🔌 Experienced with **IoT and Arduino-based projects**
+* 🧠 Passionate about solving real-world problems through technology
+* 🌱 Always learning, building, and experimenting with new ideas
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
+### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI / Machine Learning & Data Science
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
 ### 📊 Data & Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🌐 Other Technologies
+### 🌐 Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
-### 🤖 Veritas AI – Fact Checker Chatbot
+### 🤖 AI Fact Checker Chatbot
 
-An AI-powered chatbot designed to determine whether a statement is **true or false** and provide an explanation for its prediction.
+A full-stack **AI-powered fact-checking chatbot** designed to verify user-submitted claims and provide responses using Generative AI.
 
 **Features:**
 
-* AI-based fact checking
-* Explanation for predictions
-* User authentication
-* Chat history
-* Gmail login integration
+* 🔎 Real-time claim verification
+* 🤖 Google Gemini API integration
+* 🐍 Python backend
+* 🌐 Node.js frontend
+* 🔐 Clerk authentication
+* 🗄️ MongoDB chat/history storage
+* 🔗 REST API integration
 
-🔗 [View Project](https://github.com/ridhiraheja/veritas-ai-fact-checker)
+**Tech:** `Python` `Node.js` `Google Gemini API` `REST API` `Generative AI` `MongoDB` `Clerk`
 
----
-
-### 🏭 Steel Defect Classification using Deep Learning
-
-A computer vision project focused on classifying different types of steel surface defects using **Convolutional Neural Networks and Transfer Learning**.
-
-**Models explored:**
-
-* Custom CNN
-* MobileNetV2
-* ResNet50
-
-The project also explores **Explainable AI techniques such as Grad-CAM and SHAP** to understand model predictions.
+🔗 **Repository:**
+https://github.com/ridhiraheja/veritas-ai-fact-checker
 
 ---
 
-### 📊 Food Trends – Data-Driven Strategic Analysis
+### 📊 Data Analysis of Teen Mental Health
 
-A Power BI data analytics project analyzing **6,000+ food order records**.
+A Data Science project analyzing a **1,000-record Kaggle dataset** to explore relationships between screen time, sleep, and anxiety.
 
-**Includes:**
+**Work included:**
 
-* Data Cleaning
-* Exploratory Data Analysis
-* Sentiment Analysis
-* Customer Segmentation
-* Prescriptive Analytics
-* Interactive Power BI Dashboard
+* 🧹 Data preprocessing
+* 📊 Exploratory Data Analysis
+* 📈 Data visualization
+* 🔗 Correlation analysis
+* 🤖 Simple Linear Regression
+* 📐 Two-tailed Z-Test
+* 📊 Statistical analysis
+
+**Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `SciPy`
 
 ---
 
 ### 📡 Smart Visitor Detection System
 
-An IoT-based project using **ESP32-CAM and sensors** to detect visitors and provide alerts.
+An IoT-based security project designed to detect visitors and provide instant alerts to the homeowner.
 
-**Technologies:**
-`ESP32-CAM` • `Ultrasonic Sensor` • `LCD` • `Buzzer` • `IoT`
+**Features:**
+
+* 👤 Visitor detection
+* 📷 Image capture
+* 🔔 Instant security alerts
+* 🔌 Arduino-based implementation
+
+**Tech:** `Arduino` `C` `Proteus`
 
 ---
 
-## 💡 What I'm Currently Learning
+### ⚙️ AI Enhanced System Call Optimization
+
+An Operating Systems project focused on analyzing **system call execution patterns** using runtime monitoring.
+
+The project evaluates system performance through metrics such as:
+
+* ⚡ Latency
+* 📈 Throughput
+* 🔍 Execution patterns
+
+**Tech:** `Linux` `Operating Systems` `Machine Learning`
+
+---
+
+## 💼 Internship
+
+### 📊 Infosys Springboard Virtual Internship 6.0
+
+**Data Visualization & Analysis — April 2026**
+
+During my internship, I worked on data preparation, modeling, analysis, and visualization.
+
+**Key work:**
+
+* 🔄 Extracted, merged, and cleaned multi-source datasets
+* 🧹 Handled null values, duplicates, and inconsistent data types
+* 📐 Designed relational data models
+* 📊 Created **15+ custom DAX measures**
+* 📈 Built **5 interactive dashboards**
+* 💬 Worked on sentiment analysis
+* 👥 Worked on customer segmentation
+* 🎯 Used slicers, drill-throughs, and dynamic KPI cards
+* 📑 Consolidated the modules into a unified analytics dashboard
+
+**Tech:** `Power BI` `Excel` `DAX` `Power Query` `Data Modeling` `ETL`
+
+---
+
+## 📚 Certifications
+
+* 🎓 Effective Communication Skills — Skillera
+* 🔐 Ethical Hacking — Rising Tech Pro
+* 📊 Data Management: Excel & Tableau — TechVeda
+* 💻 Computer Programming — iamneo
+* 🧑‍💻 Programming Using C++ — Infosys Springboard
+* 📈 Introduction to Career Skills in Data Analytics — LinkedIn Learning
+
+---
+
+## 🏆 Achievements
+
+* 🥇 **90% in CUET 2024**, among 2.5M+ participants
+* 🥇 **87% in JEE 2024**, among 1.5M+ participants
+
+---
+
+## 🎓 Education
+
+**Lovely Professional University, Punjab, India**
+
+Bachelor of Technology — Computer Science & Engineering
+**2024 – Present**
+
+**St. Joseph's Convent Senior Secondary School, Phillaur**
+
+* Class XII — **94%**
+* Class X — **96%**
+
+---
+
+## 🧠 What I'm Currently Working On
 
 ```text
 Data Structures & Algorithms
-        ↓
+           ↓
 Machine Learning
-        ↓
-Deep Learning
-        ↓
-Data Science
-        ↓
+           ↓
+Deep Learning & Generative AI
+           ↓
+Data Science & Analytics
+           ↓
 Full-Stack Development
-        ↓
-Building Real-World AI Projects
+           ↓
+Building Real-World AI Applications
 ```
-
----
-
-## 📈 My Coding Journey
-
-I regularly practice **Data Structures & Algorithms** and work on problems involving:
-
-* Arrays
-* Strings
-* Linked Lists
-* Stacks & Queues
-* Trees
-* Graphs
-* Dynamic Programming
-* Searching & Sorting
-* Greedy Algorithms
 
 ---
 
 ## 🎯 2026 Goals
 
 * 🚀 Build more real-world AI/ML projects
-* 🧠 Strengthen DSA and problem-solving skills
-* 📊 Improve my Data Science skills
-* 🤖 Learn more about Deep Learning
-* 🌐 Build full-stack applications
-* 💼 Gain internship experience
-* 🌱 Contribute to open-source projects
-* 📚 Keep learning and experimenting with new technologies
+* 🧠 Strengthen DSA and competitive programming
+* 🤖 Explore Generative AI and Deep Learning
+* 📊 Improve Data Science & statistical analysis skills
+* 🌐 Build more full-stack applications
+* 💼 Gain valuable internship experience
+* 🤝 Contribute to open-source projects
+* 📚 Continue learning and experimenting
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ridhiraheja&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -170,7 +238,7 @@ I regularly practice **Data Structures & Algorithms** and work on problems invol
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 My Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
@@ -186,7 +254,7 @@ I regularly practice **Data Structures & Algorithms** and work on problems invol
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/ridhiraheja/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -198,26 +266,11 @@ I regularly practice **Data Structures & Algorithms** and work on problems invol
 
 ---
 
-### 💭 A Little About My Journey
+## 💭 My Philosophy
 
-> *"Learning to build, building to learn."*
+> **"Learn. Build. Solve. Repeat."**
 
-I'm continuously exploring new technologies, working on projects, solving coding problems, and improving my skills one step at a time.
+I'm constantly learning, experimenting with new technologies, building projects, and improving my problem-solving skills.
 
-**Thanks for visiting my profile! ⭐**
+### ⭐ Thanks for visiting my profile!
 
-
-<!--
-**ridhiraheja/ridhiraheja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
