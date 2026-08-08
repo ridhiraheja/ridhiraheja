@@ -127,7 +127,6 @@ An IoT-based security project designed to detect visitors and provide instant al
 
 **Tech:** `Arduino` `C` `Proteus`
 
-🔗 **[View Project on GitHub](YOUR-SMART-VISITOR-REPOSITORY-LINK)**
 
 ---
 
