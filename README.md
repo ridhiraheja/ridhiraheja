@@ -6,7 +6,7 @@ Welcome to my GitHub! 👋
 
 I'm a **Computer Science & Engineering student at Lovely Professional University** with a strong interest in **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
 
-I enjoy turning ideas into practical projects, working with data, building AI-powered applications, and continuously improving my problem-solving and programming skills.
+I enjoy turning ideas into practical projects, working with data, building AI-powered applications, and continuously improving my programming and problem-solving skills.
 
 ---
 
@@ -72,13 +72,13 @@ I enjoy turning ideas into practical projects, working with data, building AI-po
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 AI Fact Checker Chatbot
+## 🤖 AI Fact Checker Chatbot
 
 A full-stack **AI-powered fact-checking chatbot** designed to verify user-submitted claims and provide responses using Generative AI.
 
-**Features:**
+### ✨ Features
 
 * 🔎 Real-time claim verification
 * 🤖 Google Gemini API integration
@@ -90,16 +90,15 @@ A full-stack **AI-powered fact-checking chatbot** designed to verify user-submit
 
 **Tech:** `Python` `Node.js` `Google Gemini API` `REST API` `Generative AI` `MongoDB` `Clerk`
 
-🔗 **Repository:**
-https://github.com/ridhiraheja/veritas-ai-fact-checker
+🔗 https://github.com/ridhiraheja/veritas-ai-fact-checker
 
 ---
 
-### 📊 Data Analysis of Teen Mental Health
+## 📊 Data Analysis of Teen Mental Health
 
 A Data Science project analyzing a **1,000-record Kaggle dataset** to explore relationships between screen time, sleep, and anxiety.
 
-**Work included:**
+### ✨ Work Included
 
 * 🧹 Data preprocessing
 * 📊 Exploratory Data Analysis
@@ -111,13 +110,15 @@ A Data Science project analyzing a **1,000-record Kaggle dataset** to explore re
 
 **Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `SciPy`
 
+🔗 https://github.com/ridhiraheja/Teen-Mental-Health-Analysis
+
 ---
 
-### 📡 Smart Visitor Detection System
+## 📡 Smart Visitor Detection System
 
 An IoT-based security project designed to detect visitors and provide instant alerts to the homeowner.
 
-**Features:**
+### ✨ Features
 
 * 👤 Visitor detection
 * 📷 Image capture
@@ -126,9 +127,11 @@ An IoT-based security project designed to detect visitors and provide instant al
 
 **Tech:** `Arduino` `C` `Proteus`
 
+🔗 **[View Project on GitHub](YOUR-SMART-VISITOR-REPOSITORY-LINK)**
+
 ---
 
-### ⚙️ AI Enhanced System Call Optimization
+## ⚙️ AI Enhanced System Call Optimization
 
 An Operating Systems project focused on analyzing **system call execution patterns** using runtime monitoring.
 
@@ -140,17 +143,19 @@ The project evaluates system performance through metrics such as:
 
 **Tech:** `Linux` `Operating Systems` `Machine Learning`
 
+🔗 https://github.com/ridhiraheja/AI-System-Call-Optimizer
+
 ---
 
-## 💼 Internship
+# 💼 Internship Experience
 
-### 📊 Infosys Springboard Virtual Internship 6.0
+## 📊 Infosys Springboard Virtual Internship 6.0
 
-**Data Visualization & Analysis — April 2026**
+### Data Visualization & Analysis — April 2026
 
 During my internship, I worked on data preparation, modeling, analysis, and visualization.
 
-**Key work:**
+### 🔹 Key Contributions
 
 * 🔄 Extracted, merged, and cleaned multi-source datasets
 * 🧹 Handled null values, duplicates, and inconsistent data types
@@ -160,13 +165,31 @@ During my internship, I worked on data preparation, modeling, analysis, and visu
 * 💬 Worked on sentiment analysis
 * 👥 Worked on customer segmentation
 * 🎯 Used slicers, drill-throughs, and dynamic KPI cards
-* 📑 Consolidated the modules into a unified analytics dashboard
+* 📑 Consolidated modules into a unified analytics dashboard
 
 **Tech:** `Power BI` `Excel` `DAX` `Power Query` `Data Modeling` `ETL`
 
 ---
 
-## 📚 Certifications
+# 🍔 Food Trends — Data-Driven Strategic Analysis
+
+A data analytics and visualization project focused on extracting meaningful insights from food-order data.
+
+### 🔹 Project Areas
+
+* 🧹 Data Cleaning
+* 📊 Exploratory Data Analysis
+* 💬 Sentiment Analysis
+* 👥 Customer Segmentation
+* 📈 Data Visualization
+* 🎯 Prescriptive Analytics
+* 📊 Interactive Power BI Dashboard
+
+🔗 https://github.com/ridhiraheja/data_visualization
+
+---
+
+# 📜 Certifications
 
 * 🎓 Effective Communication Skills — Skillera
 * 🔐 Ethical Hacking — Rising Tech Pro
@@ -177,28 +200,32 @@ During my internship, I worked on data preparation, modeling, analysis, and visu
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 * 🥇 **90% in CUET 2024**, among 2.5M+ participants
 * 🥇 **87% in JEE 2024**, among 1.5M+ participants
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-**Lovely Professional University, Punjab, India**
+### Lovely Professional University
 
-Bachelor of Technology — Computer Science & Engineering
-**2024 – Present**
+**Bachelor of Technology — Computer Science & Engineering**
+📍 Punjab, India
+📅 2024 – Present
 
-**St. Joseph's Convent Senior Secondary School, Phillaur**
+### St. Joseph's Convent Senior Secondary School
 
-* Class XII — **94%**
-* Class X — **96%**
+**Class XII — 94%**
+
+### St. Joseph's Convent Senior Secondary School
+
+**Class X — 96%**
 
 ---
 
-## 🧠 What I'm Currently Working On
+# 🧠 Currently Learning
 
 ```text
 Data Structures & Algorithms
@@ -216,10 +243,10 @@ Building Real-World AI Applications
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
 * 🚀 Build more real-world AI/ML projects
-* 🧠 Strengthen DSA and competitive programming
+* 🧠 Strengthen DSA and problem-solving
 * 🤖 Explore Generative AI and Deep Learning
 * 📊 Improve Data Science & statistical analysis skills
 * 🌐 Build more full-stack applications
@@ -229,7 +256,7 @@ Building Real-World AI Applications
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ridhiraheja&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -238,7 +265,7 @@ Building Real-World AI Applications
 
 ---
 
-## 🐍 My Contribution Graph
+# 🐍 My Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
@@ -246,7 +273,7 @@ Building Real-World AI Applications
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -262,6 +289,10 @@ Building Real-World AI Applications
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="https://codolio.com/profile/ridhiraheja">
+<img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -273,4 +304,3 @@ Building Real-World AI Applications
 I'm constantly learning, experimenting with new technologies, building projects, and improving my problem-solving skills.
 
 ### ⭐ Thanks for visiting my profile!
-
