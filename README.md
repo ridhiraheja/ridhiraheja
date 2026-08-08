@@ -255,11 +255,12 @@ Building Real-World AI Applications
 
 ---
 
-# 📈 GitHub Stats
+📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridhiraheja&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhiraheja&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<a href="https://github.com/ridhiraheja"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridhiraheja&theme=tokyonight&hide_border=true" /> </a>
+
 </p>
 
 ---
