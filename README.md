@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Ridhi Raheja!
 
-### 💻 Computer Science Engineering Student | AI/ML | Data Science | Full-Stack Development
+### 💻 Computer Science Engineering Student | Data Analytics | Python | SQL | Power BI | AI/ML
+
+Building data-driven projects involving analytics, visualization, statistical analysis and AI-powered solutions.
 
 Welcome to my GitHub! 👋
 
